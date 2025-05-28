@@ -1,0 +1,46 @@
+* {
+  font-family: "Inter", "Angkor", sans-serif;
+  color: darkblue;
+}
+.container {
+  width: 650px;
+  margin: auto;
+  background-color: whitesmoke;
+  border: 1px solid darkblue;
+  padding: 0 30px;
+}
+.heading {
+  font-variant: small-caps;
+  text-align: center;
+  color: coral;
+}
+h2 {
+  font-weight: normal;
+  font-size: 16px;
+}
+.brand {
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  font-weight: bold;
+}
+.decription {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+}
+hr {
+  height: 3px;
+  background-color: gainsboro;
+  border: none;
+}
+.btn {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: coral;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  letter-spacing: 4px;
+  margin-bottom: 30px;
+}
